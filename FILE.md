@@ -9,5 +9,7 @@
 8. git commit - m (commit 2)<br> 
 9. git commit - m (commit 3)<br>
 10. git checkout -b <new branch><br>
-11.git checkout <1ft branch><br>
+11. git commit -m (commit 4)
+11. git checkout <1ft branch><br>
+12. git commit -m (ccommit 5)
 
