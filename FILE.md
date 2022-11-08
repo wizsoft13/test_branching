@@ -19,6 +19,7 @@
 17. git commit -m (commit 7)<br>
 18. git add FILE.md (new line added)<br>
 19. git commit -m (commit 8)<br>
+<<<<<<< HEAD
 20. git add FILE.md (new line added)<br>
 21. git commit -m (commit 9)<br>
 22. git checkout master (switch to master)<br>
@@ -26,6 +27,8 @@
 24. solving merge conflict by applying fixes<br>
 25. git checkout master (switch to master).<br>
 26. git commit -m (commit 13).<br>
+=======
+>>>>>>> fix_bug
 
 
 
