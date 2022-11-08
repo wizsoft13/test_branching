@@ -13,4 +13,5 @@
 11. git checkout <1ft branch>(switch branch)<br>
 12. git commit -m (ccommit 5)
 13. git checkout <2nd branch>(switch branch)<br>
+14. git add FILE.md (new line added)<br>
 
