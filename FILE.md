@@ -9,7 +9,15 @@
 8. git commit - m (commit 2)<br> 
 9. git commit - m (commit 3)<br>
 10. git checkout -b <new branch><br>
-11. git commit -m (commit 4)
-11. git checkout <1ft branch><br>
-12. git commit -m (ccommit 5)
+11. git commit -m (commit 4)<br>
+11. git checkout <1ft branch>(switch branch)<br>
+12. git commit -m (ccommit 5)<br>
+13. git add FILE.md(add new line)<br>
+14. git commit -m (commit 6)<br>
+15. git checkout <2nd branch>(switch branch)<br>
+16. git add FILE.md <br>
+17. git commit -m (commit 7)!<br>
+14. git add FILE.md (new line added)<br>
+19. git commit -m (commit 8)<br>
+
 
