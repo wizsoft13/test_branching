@@ -17,10 +17,8 @@
 15. git checkout <2nd branch>(switch branch)<br>
 16. git add FILE.md <br>
 17. git commit -m (commit 7)<br>
-18. git add FILE.md (new line added)<br>
+14. git add FILE.md (new line added)<br>
 19. git commit -m (commit 8)<br>
-20. git add FILE.md (new line added)<br>
-21. git commit -m (commit 9)<br>
-22. git checkout master (switch to master)<br>
+
 
 
